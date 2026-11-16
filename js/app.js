@@ -1,3 +1,4 @@
+/* ============ CONFIG (CareFirst Clinic) ============ */
 const CONFIG = {
   slug: 'carefirst-clinic',
   name: 'CareFirst Clinic',
